@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+	background-color: #f8f8f8;
+}
+
+label {
+	display: block;
+}
+
+#add-animal {
+	margin: 2%;
+	font-size: 15px;
+}
+
+#topic-input {
+	width: 90%;
+}
+
+.btn-default {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	margin: 1%;
+}
+
+.col-md-3 {
+	background-color: #f8f8f8;
+}
+
+.col-md-9 {
+	background-color: #f8f8f8;
+}
+
+.gif {
+	max-width: 100%;
+}
+
+.well {
+	border: none;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-default {
+	border: none;
+}
+
+.pull-left {
+  float: left !important;
+  max-width: 300px;
+  overflow: auto;
+  padding: 1%;
+}
+
+.pull-right {
+  float: right !important;
+  width: 100%;
+  overflow: auto;
+  padding: 1%;
+}
+
+.rating {
+	padding: 2%;
+}
+
+.row {
+	background-color: #f8f8f8;
+}
+
